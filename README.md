@@ -15,3 +15,6 @@ HTML5 Form
 
 ### Validator w3
 * Checked in validator.w3.org
+
+### Without style
+* Checked without style
